@@ -2,7 +2,6 @@ Sporty-Shoes-Store
 
 
 This project aims to design and develop an E-commerce Website for Sporty Shoes using Java Spring MVC. It enables users to buy and search the available products and make admin to manage the store within the system. It was developed as a project of Phase-3 for the Implement Frameworks the DevOps way Course. Sprints and Tasks.
-![image](https://user-images.githubusercontent.com/70217751/163356772-0bbcb64a-ef4f-4be4-98d3-057faeb738ad.png)
 
 Product Backlog:
 1.	Create database and tables.
@@ -64,7 +63,7 @@ How to run the program
 
 • clone project
 
- clone git : git clone https://github.com/NPBhavani/E-Commerce-website-for-sporty-shoes-phase-3-project
+ clone git : git clone https://github.com/Jeelans/Sporty-Shoes.git
  
  • Import the “main\webapp\resources\database\sporty-shoes.sql” file to your database administration tool.
  
@@ -75,86 +74,3 @@ How to run the program
 • Now run program on a server.
 
 • To login as an admin, you have to enter admin for both username and password.
-
-
-Screenshots:
-
-1.	Register page:
-
-
- 
-![image](https://user-images.githubusercontent.com/70217751/163356841-e110ed2f-c7ff-441a-a2bd-938768af1976.png)
-
-
-
-
-2. Login page :
-
- ![image](https://user-images.githubusercontent.com/70217751/163356882-d8478dd1-3af1-4f62-bcac-68ac3c721e3f.png)
-
-
-
-3.	Users home page:
-![image](https://user-images.githubusercontent.com/70217751/163356960-056e7918-2f2d-491c-9727-1067e3e57b69.png)
-
-
-
-
- 
-
-
-
-4.	Users cart page:
-
- ![image](https://user-images.githubusercontent.com/70217751/163357070-15ea284c-69f6-429f-a510-06d8fc8f374b.png)
-
-
-5.	 Users update account page:
-
-![image](https://user-images.githubusercontent.com/70217751/163357212-5462f0d6-81d7-480a-bdbc-b69b424bea92.png)
-
- 
-
-6.	Login as admin:
-
- 
-
-![image](https://user-images.githubusercontent.com/70217751/163357249-59fa0b5b-8376-4e43-938e-2dc6da4e739b.png)
-
-
-7.	Admins manage product page:
-
-
- ![image](https://user-images.githubusercontent.com/70217751/163357304-a51371da-fe89-4ef9-bc22-323134aa093d.png)
-
-
-
-
-8.	Update products page:
-![image](https://user-images.githubusercontent.com/70217751/163357341-00c0d71c-be46-44f6-beea-4cf3df8a3b14.png)
-
- 
-
-9.	Search a product by name :
- ![image](https://user-images.githubusercontent.com/70217751/163357401-3b7637d4-d178-4f8f-87b9-0d6ba81bc1a9.png)
-
-
-10.	Manage users page:
-
-![image](https://user-images.githubusercontent.com/70217751/163357437-e61206cf-d327-49ab-a341-86f2bb53a775.png)
-
- 
-
-
-11.	Manage orders:
-
- ![image](https://user-images.githubusercontent.com/70217751/163357514-b7702e88-4bdb-451f-ae9c-e3210edd2e22.png)
-
-
-11.	 Add a new products to the system.
-
- 
-![image](https://user-images.githubusercontent.com/70217751/163357546-fd40dbe4-0de0-4f52-9550-599c48fd7878.png)
-
-
-
